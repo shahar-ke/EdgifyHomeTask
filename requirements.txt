@@ -1,0 +1,3 @@
+sanic~=20.6.3
+requests~=2.24.0
+sanic-restful-api~=0.1.0
